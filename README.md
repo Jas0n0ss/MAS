@@ -42,7 +42,7 @@ To run the scripts in unattended mode, check [here](https://massgrave.dev/comman
 Latest Version: 2.6
 Release date: 20-Apr-2024
 ```
-
-### [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
-### [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
-### Homepage - [https://massgrave.dev/](https://massgrave.dev/)
+### Docs
+- [Troubleshooting / Help](https://massgrave.dev/troubleshoot)
+- [Download Original Windows & Office](https://massgrave.dev/genuine-installation-media)
+- [Homepage](https://massgrave.dev)
